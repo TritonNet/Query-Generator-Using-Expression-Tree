@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9C3CE187-B485-4B9E-8E6E-F434B4E8CC09}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DEMO.BusinessLogic</RootNamespace>
+    <AssemblyName>DEMO.BusinessLogic</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'TestConfigMode|AnyCPU'">
+    <OutputPath>bin\TestConfigMode\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CompanyService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DEMO.DataAccess\DEMO.DataAccess.csproj">
+      <Project>{F3E8C353-BD40-4234-9F1B-9AA6A6E0370D}</Project>
+      <Name>DEMO.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DEMO.Entity\DEMO.Entity.csproj">
+      <Project>{776CF9D8-A38D-4F7B-8B09-D9EBE4632D54}</Project>
+      <Name>DEMO.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DEMO.Global\DEMO.Global.csproj">
+      <Project>{238AF465-ACD2-4124-8A1A-12B6A9FB6645}</Project>
+      <Name>DEMO.Global</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Peercore.IngresLinq\Peercore.IngresLinq.csproj">
+      <Project>{D01ADC74-A7A7-4825-9691-E06C55F4DE83}</Project>
+      <Name>Peercore.IngresLinq</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

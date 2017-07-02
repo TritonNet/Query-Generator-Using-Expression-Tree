@@ -1,0 +1,14 @@
+E:\Peercore IT\Tech Team\Demo Application\DEMO.BusinessLogic\bin\TestConfigMode\DEMO.BusinessLogic.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.BusinessLogic\bin\TestConfigMode\DEMO.DataAccess.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.BusinessLogic\bin\TestConfigMode\DEMO.Entity.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.BusinessLogic\bin\TestConfigMode\DEMO.Global.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.BusinessLogic\obj\TestConfigMode\ResolveAssemblyReference.cache
+E:\Peercore IT\Tech Team\Demo Application\DEMO.BusinessLogic\obj\TestConfigMode\DEMO.BusinessLogic.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.BusinessLogic\bin\TestConfigMode\DEMO.BusinessLogic.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.BusinessLogic\bin\TestConfigMode\DEMO.DataAccess.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.BusinessLogic\bin\TestConfigMode\DEMO.Entity.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.BusinessLogic\bin\TestConfigMode\DEMO.Global.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.BusinessLogic\bin\TestConfigMode\Peercore.IngresLinq.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.BusinessLogic\bin\TestConfigMode\Peercore.IngresLinq.pdb
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.BusinessLogic\obj\TestConfigMode\ResolveAssemblyReference.cache
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.BusinessLogic\obj\TestConfigMode\DEMO.BusinessLogic.dll

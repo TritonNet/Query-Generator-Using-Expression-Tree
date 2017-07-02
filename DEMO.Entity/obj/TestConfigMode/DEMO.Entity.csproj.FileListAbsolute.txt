@@ -1,0 +1,6 @@
+E:\Peercore IT\Tech Team\Demo Application\DEMO.Entity\bin\TestConfigMode\DEMO.Entity.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.Entity\obj\TestConfigMode\ResolveAssemblyReference.cache
+E:\Peercore IT\Tech Team\Demo Application\DEMO.Entity\obj\TestConfigMode\DEMO.Entity.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.Entity\bin\TestConfigMode\DEMO.Entity.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.Entity\obj\TestConfigMode\ResolveAssemblyReference.cache
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.Entity\obj\TestConfigMode\DEMO.Entity.dll

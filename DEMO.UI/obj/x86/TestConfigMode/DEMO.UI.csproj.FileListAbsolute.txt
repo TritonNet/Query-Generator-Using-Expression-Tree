@@ -1,0 +1,32 @@
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\bin\x86\TestConfigMode\DEMO.UI.exe
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\bin\x86\TestConfigMode\DEMO.BusinessLogic.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\bin\x86\TestConfigMode\DEMO.Entity.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\bin\x86\TestConfigMode\DEMO.Global.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\bin\x86\TestConfigMode\DEMO.DataAccess.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\obj\x86\TestConfigMode\ResolveAssemblyReference.cache
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\obj\x86\TestConfigMode\MainWindow.baml
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\obj\x86\TestConfigMode\MainWindow.g.cs
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\obj\x86\TestConfigMode\App.g.cs
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\obj\x86\TestConfigMode\DEMO.UI_MarkupCompile.cache
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\obj\x86\TestConfigMode\DEMO.UI.g.resources
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\obj\x86\TestConfigMode\DEMO.UI.Properties.Resources.resources
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\obj\x86\TestConfigMode\GenerateResource.read.1.tlog
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\obj\x86\TestConfigMode\GenerateResource.write.1.tlog
+E:\Peercore IT\Tech Team\Demo Application\DEMO.UI\obj\x86\TestConfigMode\DEMO.UI.exe
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\bin\x86\TestConfigMode\DEMO.UI.exe
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\bin\x86\TestConfigMode\DEMO.BusinessLogic.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\bin\x86\TestConfigMode\DEMO.Entity.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\bin\x86\TestConfigMode\DEMO.Global.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\bin\x86\TestConfigMode\DEMO.DataAccess.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\bin\x86\TestConfigMode\Peercore.IngresLinq.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\bin\x86\TestConfigMode\Peercore.IngresLinq.pdb
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\obj\x86\TestConfigMode\ResolveAssemblyReference.cache
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\obj\x86\TestConfigMode\MainWindow.baml
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\obj\x86\TestConfigMode\MainWindow.g.cs
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\obj\x86\TestConfigMode\App.g.cs
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\obj\x86\TestConfigMode\DEMO.UI_MarkupCompile.cache
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\obj\x86\TestConfigMode\DEMO.UI.g.resources
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\obj\x86\TestConfigMode\DEMO.UI.Properties.Resources.resources
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\obj\x86\TestConfigMode\GenerateResource.read.1.tlog
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\obj\x86\TestConfigMode\GenerateResource.write.1.tlog
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.UI\obj\x86\TestConfigMode\DEMO.UI.exe

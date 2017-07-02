@@ -1,0 +1,6 @@
+E:\Projects\Researches\Query Generator Using Expression Tree\Peercore.IngresLinq\bin\Release\Peercore.IngresLinq.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\Peercore.IngresLinq\bin\Release\Peercore.IngresLinq.pdb
+E:\Projects\Researches\Query Generator Using Expression Tree\Peercore.IngresLinq\bin\Release\DEMO.Entity.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\Peercore.IngresLinq\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\Researches\Query Generator Using Expression Tree\Peercore.IngresLinq\obj\Release\Peercore.IngresLinq.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\Peercore.IngresLinq\obj\Release\Peercore.IngresLinq.pdb

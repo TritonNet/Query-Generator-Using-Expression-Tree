@@ -1,0 +1,6 @@
+E:\Peercore IT\Tech Team\Demo Application\DEMO.Global\bin\TestConfigMode\DEMO.Global.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.Global\obj\TestConfigMode\ResolveAssemblyReference.cache
+E:\Peercore IT\Tech Team\Demo Application\DEMO.Global\obj\TestConfigMode\DEMO.Global.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.Global\bin\TestConfigMode\DEMO.Global.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.Global\obj\TestConfigMode\ResolveAssemblyReference.cache
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.Global\obj\TestConfigMode\DEMO.Global.dll

@@ -1,0 +1,10 @@
+E:\Peercore IT\Tech Team\Demo Application\DEMO.DataAccess\bin\TestConfigMode\DEMO.DataAccess.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.DataAccess\bin\TestConfigMode\DEMO.Entity.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.DataAccess\bin\TestConfigMode\DEMO.Global.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.DataAccess\obj\TestConfigMode\ResolveAssemblyReference.cache
+E:\Peercore IT\Tech Team\Demo Application\DEMO.DataAccess\obj\TestConfigMode\DEMO.DataAccess.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.DataAccess\bin\TestConfigMode\DEMO.DataAccess.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.DataAccess\bin\TestConfigMode\DEMO.Entity.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.DataAccess\bin\TestConfigMode\DEMO.Global.dll
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.DataAccess\obj\TestConfigMode\ResolveAssemblyReference.cache
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.DataAccess\obj\TestConfigMode\DEMO.DataAccess.dll

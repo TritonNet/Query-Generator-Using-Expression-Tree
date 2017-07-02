@@ -1,0 +1,5 @@
+E:\Peercore IT\Tech Team\Demo Application\DEMO.Global\bin\Debug\DEMO.Global.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.Global\bin\Debug\DEMO.Global.pdb
+E:\Peercore IT\Tech Team\Demo Application\DEMO.Global\obj\Debug\ResolveAssemblyReference.cache
+E:\Peercore IT\Tech Team\Demo Application\DEMO.Global\obj\Debug\DEMO.Global.dll
+E:\Peercore IT\Tech Team\Demo Application\DEMO.Global\obj\Debug\DEMO.Global.pdb

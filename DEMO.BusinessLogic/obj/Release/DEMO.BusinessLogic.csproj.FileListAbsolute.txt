@@ -1,0 +1,1 @@
+E:\Projects\Researches\Query Generator Using Expression Tree\DEMO.BusinessLogic\obj\Release\ResolveAssemblyReference.cache
